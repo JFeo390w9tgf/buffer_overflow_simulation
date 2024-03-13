@@ -121,3 +121,7 @@ I am going to demonstrate simple buffer overflow attack by using free source lik
    ```
 - Now we are successfully gain the access by using Buffer Overflow Vulnerability.
   ![Granted](https://github.com/JFeo390w9tgf/buffer_overflow_simulation/blob/main/img/Screenshot%202024-03-13%20172739.png?raw=true)
+
+USE IT WISELY !!!
+============
+- coded by -> ig : [@hackie.techie](https://instagram.com/hackie.techie/)
