@@ -1,4 +1,4 @@
-# stack_overflow_simulation
+# buffer_overflow_simulation
 *An article and instruction to perform simple stack overflow vulnerability exploit (For Educational Purposes Only).*
 
 I am going to demonstrate simple buffer overflow attack by using free source like google cloud console.
